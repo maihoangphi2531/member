@@ -5,10 +5,10 @@ local TeleportService = game:GetService("TeleportService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local LocalPlayer = Players.LocalPlayer
-local leaderName  = "Hagfyo"
+local leaderName  = "Laynaop1"
 
 local PLACE_ID_TARGET = 4310463616
-local JOB_ID_TARGET   = "a6d4bb0c-1fa6-4d34-a01d-e6dbce8931c8"
+local JOB_ID_TARGET   = "a5719129-6e62-4668-98de-6428c54a36a0"
 
 -- Place ID cần kiểm tra đặc biệt
 local PLACE_ID_CHECK = 14400549310
